@@ -1,0 +1,13 @@
+formation,thickness median,thickness std,method
+Bunjinah_Formation,2818.0,267.28636328851496,full
+Jeerinah_Formation,1432.5,876.2414257914968,full
+Marra_Mamba_Iron_Formation,329.0,265.13197905615726,full
+Boolgeeda_Iron_Formation,302.0,347.57429983017875,full
+Mount_McRae_Shale_and_Mount_Sylvia_Formation,189.0,119.4051114699923,full
+Weeli_Wolli_Formation,362.0,528.6030321435906,full
+Wittenoom_Formation,493.0,433.0153797364698,full
+Woongarra_Rhyolite,592.5,524.9295718889805,full
+Brockman_Iron_Formation,802.0,577.3273671747156,full
+Turee_Creek_Group,583.0,416.44981309324277,min
+Fortescue_Group,538.0,nan,guess
+Pyradie_Formation,538.0,nan,guess

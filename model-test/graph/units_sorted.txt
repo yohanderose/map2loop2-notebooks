@@ -1,0 +1,12 @@
+0 38371.1 2718 2730 0 Pyradie Formation
+1 76940.8 2208 2449 1 Turee Creek Group
+2 139498 2629 2780 1 Fortescue Group
+3 154138 2208 2445 0 Boolgeeda Iron Formation
+4 158162 2715 2718 0 Bunjinah Formation
+5 175219 2445 2449 0 Woongarra Rhyolite
+6 178993 2597 2629 0 Marra Mamba Iron Formation
+7 185695 2450 2451 1 Weeli Wolli Formation
+8 201842 2504 2597 0 Wittenoom Formation
+9 220117 2501 2541 0 Mount McRae Shale and Mount Sylvia Formation
+10 238623 2451 2494 0 Brockman Iron Formation
+11 315347 2629 2715 1 Jeerinah Formation
