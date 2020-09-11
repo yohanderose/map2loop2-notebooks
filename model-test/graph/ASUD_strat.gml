@@ -45,7 +45,7 @@ graph [
   ]
   node [
     id 3
-    label "4"
+    label "3"
     LabelGraphics [
       text "Boolgeeda Iron Formation"
       fontSize 14
@@ -58,7 +58,7 @@ graph [
   ]
   node [
     id 4
-    label "1"
+    label "11"
     LabelGraphics [
       text "Brockman Iron Formation"
       fontSize 14
@@ -71,7 +71,7 @@ graph [
   ]
   node [
     id 5
-    label "11"
+    label "7"
     LabelGraphics [
       text "Bunjinah Formation"
       fontSize 14
@@ -84,7 +84,7 @@ graph [
   ]
   node [
     id 6
-    label "7"
+    label "4"
     LabelGraphics [
       text "Fortescue Group"
       fontSize 14
@@ -97,7 +97,7 @@ graph [
   ]
   node [
     id 7
-    label "2"
+    label "6"
     LabelGraphics [
       text "Jeerinah Formation"
       fontSize 14
@@ -110,7 +110,7 @@ graph [
   ]
   node [
     id 8
-    label "9"
+    label "5"
     LabelGraphics [
       text "Marra Mamba Iron Formation"
       fontSize 14
@@ -123,7 +123,7 @@ graph [
   ]
   node [
     id 9
-    label "5"
+    label "1"
     LabelGraphics [
       text "Mount McRae Shale and Mount Sylvia Formation"
       fontSize 14
@@ -136,7 +136,7 @@ graph [
   ]
   node [
     id 10
-    label "0"
+    label "8"
     LabelGraphics [
       text "Pyradie Formation"
       fontSize 14
@@ -162,7 +162,7 @@ graph [
   ]
   node [
     id 12
-    label "8"
+    label "2"
     LabelGraphics [
       text "Weeli Wolli Formation"
       fontSize 14
@@ -175,7 +175,7 @@ graph [
   ]
   node [
     id 13
-    label "6"
+    label "0"
     LabelGraphics [
       text "Wittenoom Formation"
       fontSize 14
@@ -188,7 +188,7 @@ graph [
   ]
   node [
     id 14
-    label "3"
+    label "9"
     LabelGraphics [
       text "Woongarra Rhyolite"
       fontSize 14
@@ -202,16 +202,6 @@ graph [
   edge [
     source 3
     target 14
-  ]
-  edge [
-    source 4
-    target 13
-    graphics [
-      style "line"
-      arrow "last"
-      width 3
-      fill "#fc0200"
-    ]
   ]
   edge [
     source 4
@@ -251,22 +241,22 @@ graph [
   ]
   edge [
     source 9
-    target 7
-    graphics [
-      style "line"
-      arrow "last"
-      width 1
-      fill "#956900"
-    ]
-  ]
-  edge [
-    source 9
     target 8
     graphics [
       style "line"
       arrow "last"
       width 3
-      fill "#00bf3f"
+      fill "#00ed11"
+    ]
+  ]
+  edge [
+    source 9
+    target 7
+    graphics [
+      style "line"
+      arrow "last"
+      width 1
+      fill "#a65800"
     ]
   ]
   edge [
@@ -275,31 +265,11 @@ graph [
   ]
   edge [
     source 11
-    target 14
-    graphics [
-      style "line"
-      arrow "last"
-      width 1
-      fill "#ef0f00"
-    ]
-  ]
-  edge [
-    source 11
     target 3
   ]
   edge [
     source 12
     target 4
-  ]
-  edge [
-    source 13
-    target 7
-    graphics [
-      style "line"
-      arrow "last"
-      width 1
-      fill "#f50900"
-    ]
   ]
   edge [
     source 13
