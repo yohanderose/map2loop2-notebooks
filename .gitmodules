@@ -1,6 +1,0 @@
-[submodule "data"]
-	path = data
-	url = https://github.com/yohanderose/data
-[submodule "Turner_Syncline"]
-	path = Turner_Syncline
-	url = https://github.com/Loop3D/Turner_Syncline/
