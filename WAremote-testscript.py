@@ -1,5 +1,6 @@
 from map2loop.project import Project
 
+
 proj = Project(
     state="WA",
     remote=True,
