@@ -14,7 +14,7 @@ bbox = {
 }
 proj.update_config(
     out_dir='./model-test',
-    overwrite=True,
+    overwrite='true',
     bbox_3d=bbox,
     # bbox_3d={
     #     "minx": 500000,
