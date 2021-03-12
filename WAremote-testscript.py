@@ -13,20 +13,12 @@ bbox = {
     "top": 12000,
 }
 proj.update_config(
-    out_dir='./model-test',
+    out_dir='wa-remote',
     overwrite='true',
+    # loopFilename='lachie.loop3d',
     bbox_3d=bbox,
-    # bbox_3d={
-    #     "minx": 500000,
-    #     "miny": 7490000,
-    #     "maxx": 545000,
-    #     "maxy": 7520000,
-    #     "base": -3200,
-    #     "top": 1200,
-    # },
     proj_crs={'init': 'EPSG:28350'},
-    quiet=True
+    quiet='all'
 )
-
 
 proj.run()
